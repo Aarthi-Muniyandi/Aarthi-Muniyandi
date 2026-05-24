@@ -20,9 +20,7 @@
 
 I am a final-year Computer Science student with a strong foundation in cybersecurity, machine learning, and full-stack web development. My work spans automated reconnaissance frameworks, AI-driven health applications, and secure web tooling. I am passionate about building systems that are both intelligent and secure.
 
-- 🔐 Focused on **offensive security**, **vulnerability assessment**, and **recon automation**
-- 🤖 Exploring **AI/ML applications** in real-world problem solving
-- 🌐 Building **full-stack web applications** with clean, user-centric design
+- 🛡️ Targeting **SOC Analyst** roles — focused on threat detection, log analysis, and incident response
 - 📍 Based in **Chennai, Tamil Nadu, India**
 
 ---
