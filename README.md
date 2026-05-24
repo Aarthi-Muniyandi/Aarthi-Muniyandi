@@ -8,8 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarthi0713)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aarthi-Muniyandi)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/dashboard)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/V0tHCTDVIM/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarthiuniverse@gmail.com)
 
 </div>
@@ -153,18 +151,6 @@ An AI memory layer designed to enhance conversational AI systems with selective 
 - 🏛️ **Student In-Charge (Leader)** — Department Language Club, R.M.K. Engineering College *(2 consecutive years)*
 - 🗂️ **Event Organizer** — Paper Presentation Event, Third Year Technical Symposium
 - 🎪 **Volunteer Organizer** — Department Symposium, Second Year
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Aarthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarthi-Muniyandi&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarthi-Muniyandi&layout=compact&theme=default&hide_border=true)
-
-</div>
 
 ---
 
