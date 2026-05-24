@@ -41,7 +41,6 @@ I am a final-year Computer Science student with a strong foundation in cybersecu
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 
 ### Tools & Platforms
@@ -53,7 +52,6 @@ I am a final-year Computer Science student with a strong foundation in cybersecu
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Gobuster](https://img.shields.io/badge/Gobuster-333333?style=flat-square&logoColor=white)
 ![WhatWeb](https://img.shields.io/badge/WhatWeb-2E86C1?style=flat-square&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
 ![LetsDefend](https://img.shields.io/badge/LetsDefend-1A1A2E?style=flat-square&logoColor=white)
